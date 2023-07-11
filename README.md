@@ -1,4 +1,5 @@
-### Hi there 👋
+### DevOps My Way
+I've spent 30 years working in public and private sector across health, education, community service and transportation industries.  As a life-long learner, I've enjoyed being an IT professional during three decades of some of the most amazing growth in technology and industry.  What you will find here are just my pet projects as I work to bring my own picture of A-to-Z DevOps more into focus.  I envision an organization completely powered by code living in repositories where technology is no longer something we have to care for, but instead something that is truely designed to serve the needs of our customer.  With Infrastructure as Code, we can have the resources we need, when we need them and completely discard it when the job is done.  Better still, this entire system can be defined by code in a repository that is versioned, archived and easily cloned.
 
 <!--
 **JamesCaldwellJr/JamesCaldwellJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
